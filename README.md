@@ -20,15 +20,6 @@ A simple web-based To-Do List application built using HTML, CSS, and JavaScript.
 
 To get started with the To-Do List application, simply open the `index.html` file in a web browser. From there, you can create new to-do list items by clicking the "Add Item" button, view all items by clicking the "View All" button, and update or delete existing items by clicking the "Edit" or "Delete" buttons next to each item.
 
-## Screenshots
-
-![Screenshot of the To-Do List application](https://github.com/user-attachments/assets/8f071e75-c970-44e4-9fc1-febed32b1d25)
-![Screenshot of the To-Do List application](https://github.com/user-attachments/assets/8ede8ef7-7eda-4aba-a516-6396c303976a)
-![Screenshot of the To-Do List application](https://github.com/user-attachments/assets/60b0dc7a-a6a3-4de1-885a-07400ad95346)
-![Screenshot of the To-Do List application](https://github.com/user-attachments/assets/46561aa0-efc7-429b-93e4-6eb6308fcabe)
-![Screenshot of the To-Do List application](https://github.com/user-attachments/assets/d687e629-80b0-4bca-806b-42cce9c5e735)
-![Screenshot of the To-Do List application](https://github.com/user-attachments/assets/560a70c0-2270-43c4-85fc-88f7e91e18a7)
-
 ## Roadmap
 
 * Add due dates and reminders for to-do list items
